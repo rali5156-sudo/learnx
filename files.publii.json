@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "b6becf021f32e6be507b28019f952159"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "1ebc28bca15f30610f135a16d8a0f587"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2308323f64a1205a787780e9fcfda38f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0466f371356fea471285cd30e57271a4"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "f4b6f061f15a580b444fdbf8d2913357"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-mastering-the-book-of-allah-online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-mastering-the-book-of-allah-online/index.html",
+        "type": "file",
+        "md5": "c30ce6e24894ba604def5732b1be27b1"
+    },
+    {
+        "path": "learn-quran-a-comprehensive-path-to-mastering-the-words-of-allah-for-all-levels",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-comprehensive-path-to-mastering-the-words-of-allah-for-all-levels/index.html",
+        "type": "file",
+        "md5": "d33d1f26d8fa09a910cea28b8a4f3cf0"
+    },
+    {
+        "path": "learn-quran-your-essential-guide-to-mastering-quranic-recitation-and-understanding-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-your-essential-guide-to-mastering-quranic-recitation-and-understanding-from-home/index.html",
+        "type": "file",
+        "md5": "50f28a7b1bcfe354ddaaae337fd87f61"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-38.jfif",
+        "type": "file",
+        "md5": "db01b2b36733a21fe2d1c3376946d08b"
+    },
+    {
+        "path": "quran-reading-classes-online-a-complete-guide-to-finding-the-right-platform-and-getting-started",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-a-complete-guide-to-finding-the-right-platform-and-getting-started/index.html",
+        "type": "file",
+        "md5": "28e8ea4a68a4f13b038d6f489965b02e"
+    },
+    {
+        "path": "quran-reading-classes-online-the-smart-path-to-mastering-quran-reading-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-the-smart-path-to-mastering-quran-reading-from-home/index.html",
+        "type": "file",
+        "md5": "f1bfb010bd91a6b62bbca7a5ec225af6"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "05302d3e0eb6bfa4c8623050b750086b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "2fb15efe5d6105f1a6f2823c25d5ae40"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "7b30b7433505e302d3996d56efcba039"
+    }
+]
